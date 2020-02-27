@@ -1,0 +1,3712 @@
+﻿{
+  "DocumentId": "document-0003-Demo-Invoice-2",
+  "ContentType": "application/pdf",
+  "Length": 1620,
+  "Pages": [
+    {
+      "PageIndex": 0,
+      "Size": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "Sections": [
+        {
+          "IndexInText": 0,
+          "Language": "eng",
+          "Length": 8,
+          "Rotation": "None",
+          "SkewAngle": 0.0,
+          "Type": "Paragraph",
+          "WordGroups": [
+            {
+              "IndexInText": 0,
+              "Length": 8,
+              "Type": "Heading",
+              "Words": [
+                {
+                  "Box": [
+                    63.78,
+                    99.98,
+                    30.53,
+                    18.0
+                  ],
+                  "IndexInText": 0,
+                  "OcrConfidence": 1.0,
+                  "Text": "ABC"
+                },
+                {
+                  "Box": [
+                    63.78,
+                    134.58,
+                    28.25,
+                    18.0
+                  ],
+                  "IndexInText": 4,
+                  "OcrConfidence": 1.0,
+                  "Text": "Ltd."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IndexInText": 10,
+          "Language": "eng",
+          "Length": 68,
+          "Rotation": "None",
+          "SkewAngle": 0.0,
+          "Type": "Paragraph",
+          "WordGroups": [
+            {
+              "IndexInText": 10,
+              "Length": 68,
+              "Type": "Other",
+              "Words": [
+                {
+                  "Box": [
+                    99.14,
+                    41.76,
+                    34.91,
+                    12.0
+                  ],
+                  "IndexInText": 10,
+                  "OcrConfidence": 1.0,
+                  "Text": "Invoice"
+                },
+                {
+                  "Box": [
+                    99.14,
+                    79.42,
+                    43.26,
+                    12.0
+                  ],
+                  "IndexInText": 18,
+                  "OcrConfidence": 1.0,
+                  "Text": "Number:"
+                },
+                {
+                  "Box": [
+                    99.14,
+                    125.54,
+                    70.28,
+                    12.0
+                  ],
+                  "IndexInText": 26,
+                  "OcrConfidence": 1.0,
+                  "Text": "UK-INV-03645"
+                },
+                {
+                  "Box": [
+                    113.78,
+                    41.76,
+                    28.63,
+                    12.0
+                  ],
+                  "IndexInText": 39,
+                  "OcrConfidence": 1.0,
+                  "Text": "Order"
+                },
+                {
+                  "Box": [
+                    113.78,
+                    73.16,
+                    13.54,
+                    12.0
+                  ],
+                  "IndexInText": 45,
+                  "OcrConfidence": 1.0,
+                  "Text": "ID:"
+                },
+                {
+                  "Box": [
+                    113.78,
+                    89.54,
+                    48.54,
+                    12.0
+                  ],
+                  "IndexInText": 49,
+                  "OcrConfidence": 1.0,
+                  "Text": "23450134"
+                },
+                {
+                  "Box": [
+                    128.42,
+                    41.76,
+                    19.76,
+                    12.0
+                  ],
+                  "IndexInText": 58,
+                  "OcrConfidence": 1.0,
+                  "Text": "Due"
+                },
+                {
+                  "Box": [
+                    128.42,
+                    64.16,
+                    26.34,
+                    12.0
+                  ],
+                  "IndexInText": 62,
+                  "OcrConfidence": 1.0,
+                  "Text": "Date:"
+                },
+                {
+                  "Box": [
+                    128.42,
+                    93.17,
+                    58.0,
+                    12.0
+                  ],
+                  "IndexInText": 68,
+                  "OcrConfidence": 1.0,
+                  "Text": "07/03/2018"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IndexInText": 80,
+          "Language": "eng",
+          "Length": 18,
+          "Rotation": "None",
+          "SkewAngle": 0.0,
+          "Type": "Paragraph",
+          "WordGroups": [
+            {
+              "IndexInText": 80,
+              "Length": 18,
+              "Type": "Other",
+              "Words": [
+                {
+                  "Box": [
+                    179.3,
+                    41.76,
+                    19.03,
+                    11.04
+                  ],
+                  "IndexInText": 80,
+                  "OcrConfidence": 1.0,
+                  "Text": "BILL"
+                },
+                {
+                  "Box": [
+                    179.3,
+                    63.62,
+                    16.48,
+                    11.04
+                  ],
+                  "IndexInText": 85,
+                  "OcrConfidence": 1.0,
+                  "Text": "TO:"
+                },
+                {
+                  "Box": [
+                    194.42,
+                    41.76,
+                    29.46,
+                    12.0
+                  ],
+                  "IndexInText": 89,
+                  "OcrConfidence": 1.0,
+                  "Text": "ACME"
+                },
+                {
+                  "Box": [
+                    194.42,
+                    74.02,
+                    18.36,
+                    12.0
+                  ],
+                  "IndexInText": 94,
+                  "OcrConfidence": 1.0,
+                  "Text": "Ltd."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IndexInText": 100,
+          "Language": "ron",
+          "Length": 11,
+          "Rotation": "None",
+          "SkewAngle": 0.0,
+          "Type": "Paragraph",
+          "WordGroups": [
+            {
+              "IndexInText": 100,
+              "Length": 11,
+              "Type": "Other",
+              "Words": [
+                {
+                  "Box": [
+                    39.66,
+                    481.3,
+                    28.0,
+                    18.0
+                  ],
+                  "IndexInText": 100,
+                  "OcrConfidence": 1.0,
+                  "Text": "VAT"
+                },
+                {
+                  "Box": [
+                    39.66,
+                    512.86,
+                    58.23,
+                    18.0
+                  ],
+                  "IndexInText": 104,
+                  "OcrConfidence": 1.0,
+                  "Text": "INVOICE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IndexInText": 113,
+          "Language": "eng",
+          "Length": 18,
+          "Rotation": "None",
+          "SkewAngle": 0.0,
+          "Type": "Paragraph",
+          "WordGroups": [
+            {
+              "IndexInText": 113,
+              "Length": 18,
+              "Type": "Other",
+              "Words": [
+                {
+                  "Box": [
+                    179.3,
+                    311.81,
+                    21.56,
+                    11.04
+                  ],
+                  "IndexInText": 113,
+                  "OcrConfidence": 1.0,
+                  "Text": "SHIP"
+                },
+                {
+                  "Box": [
+                    179.3,
+                    336.23,
+                    16.35,
+                    11.04
+                  ],
+                  "IndexInText": 118,
+                  "OcrConfidence": 1.0,
+                  "Text": "TO:"
+                },
+                {
+                  "Box": [
+                    194.42,
+                    311.81,
+                    29.46,
+                    12.0
+                  ],
+                  "IndexInText": 122,
+                  "OcrConfidence": 1.0,
+                  "Text": "ACME"
+                },
+                {
+                  "Box": [
+                    194.42,
+                    344.07,
+                    18.36,
+                    12.0
+                  ],
+                  "IndexInText": 127,
+                  "OcrConfidence": 1.0,
+                  "Text": "Ltd."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IndexInText": 133,
+          "Language": "eng",
+          "Length": 991,
+          "Rotation": "None",
+          "SkewAngle": 0.0,
+          "Type": "Table",
+          "WordGroups": [
+            {
+              "IndexInText": 133,
+              "Length": 60,
+              "Type": "TableCell",
+              "Words": [
+                {
+                  "Box": [
+                    209.06,
+                    41.76,
+                    6.08,
+                    12.0
+                  ],
+                  "IndexInText": 133,
+                  "OcrConfidence": 1.0,
+                  "Text": "7"
+                },
+                {
+                  "Box": [
+                    209.06,
+                    50.63,
+                    44.78,
+                    12.0
+                  ],
+                  "IndexInText": 135,
+                  "OcrConfidence": 1.0,
+                  "Text": "Rockfield"
+                },
+                {
+                  "Box": [
+                    209.06,
+                    98.12,
+                    41.98,
+                    12.0
+                  ],
+                  "IndexInText": 145,
+                  "OcrConfidence": 1.0,
+                  "Text": "Business"
+                },
+                {
+                  "Box": [
+                    209.06,
+                    142.74,
+                    24.56,
+                    12.0
+                  ],
+                  "IndexInText": 154,
+                  "OcrConfidence": 1.0,
+                  "Text": "Park,"
+                },
+                {
+                  "Box": [
+                    209.06,
+                    170.06,
+                    17.0,
+                    12.0
+                  ],
+                  "IndexInText": 160,
+                  "OcrConfidence": 1.0,
+                  "Text": "Old"
+                },
+                {
+                  "Box": [
+                    209.06,
+                    189.84,
+                    34.56,
+                    12.0
+                  ],
+                  "IndexInText": 164,
+                  "OcrConfidence": 1.0,
+                  "Text": "Station"
+                },
+                {
+                  "Box": [
+                    209.06,
+                    227.12,
+                    13.95,
+                    12.0
+                  ],
+                  "IndexInText": 172,
+                  "OcrConfidence": 1.0,
+                  "Text": "DR"
+                },
+                {
+                  "Box": [
+                    223.7,
+                    41.76,
+                    59.45,
+                    12.0
+                  ],
+                  "IndexInText": 175,
+                  "OcrConfidence": 1.0,
+                  "Text": "Cheltenham"
+                },
+                {
+                  "Box": [
+                    238.34,
+                    41.76,
+                    45.65,
+                    12.0
+                  ],
+                  "IndexInText": 186,
+                  "OcrConfidence": 1.0,
+                  "Text": "GL530AN"
+                }
+              ]
+            },
+            {
+              "IndexInText": 196,
+              "Length": 60,
+              "Type": "TableRowEnd",
+              "Words": [
+                {
+                  "Box": [
+                    209.06,
+                    311.81,
+                    6.08,
+                    12.0
+                  ],
+                  "IndexInText": 196,
+                  "OcrConfidence": 1.0,
+                  "Text": "7"
+                },
+                {
+                  "Box": [
+                    209.06,
+                    320.68,
+                    44.78,
+                    12.0
+                  ],
+                  "IndexInText": 198,
+                  "OcrConfidence": 1.0,
+                  "Text": "Rockfield"
+                },
+                {
+                  "Box": [
+                    209.06,
+                    368.17,
+                    41.98,
+                    12.0
+                  ],
+                  "IndexInText": 208,
+                  "OcrConfidence": 1.0,
+                  "Text": "Business"
+                },
+                {
+                  "Box": [
+                    209.06,
+                    412.79,
+                    24.56,
+                    12.0
+                  ],
+                  "IndexInText": 217,
+                  "OcrConfidence": 1.0,
+                  "Text": "Park,"
+                },
+                {
+                  "Box": [
+                    209.06,
+                    440.11,
+                    17.0,
+                    12.0
+                  ],
+                  "IndexInText": 223,
+                  "OcrConfidence": 1.0,
+                  "Text": "Old"
+                },
+                {
+                  "Box": [
+                    209.06,
+                    459.89,
+                    34.56,
+                    12.0
+                  ],
+                  "IndexInText": 227,
+                  "OcrConfidence": 1.0,
+                  "Text": "Station"
+                },
+                {
+                  "Box": [
+                    209.06,
+                    497.17,
+                    13.95,
+                    12.0
+                  ],
+                  "IndexInText": 235,
+                  "OcrConfidence": 1.0,
+                  "Text": "DR"
+                },
+                {
+                  "Box": [
+                    223.7,
+                    311.81,
+                    59.45,
+                    12.0
+                  ],
+                  "IndexInText": 238,
+                  "OcrConfidence": 1.0,
+                  "Text": "Cheltenham"
+                },
+                {
+                  "Box": [
+                    238.34,
+                    311.81,
+                    45.65,
+                    12.0
+                  ],
+                  "IndexInText": 249,
+                  "OcrConfidence": 1.0,
+                  "Text": "GL530AN"
+                }
+              ]
+            },
+            {
+              "IndexInText": 257,
+              "Length": 13,
+              "Type": "TableCell",
+              "Words": [
+                {
+                  "Box": [
+                    274.13,
+                    41.76,
+                    47.14,
+                    12.0
+                  ],
+                  "IndexInText": 257,
+                  "OcrConfidence": 1.0,
+                  "Text": "Currency:"
+                },
+                {
+                  "Box": [
+                    274.13,
+                    91.63,
+                    20.24,
+                    12.0
+                  ],
+                  "IndexInText": 267,
+                  "OcrConfidence": 1.0,
+                  "Text": "GBP"
+                }
+              ]
+            },
+            {
+              "IndexInText": 320,
+              "Length": 1,
+              "Type": "TableRowEnd",
+              "Words": [
+                {
+                  "Box": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "IndexInText": 320,
+                  "OcrConfidence": 1.0,
+                  "Text": " "
+                }
+              ]
+            },
+            {
+              "IndexInText": 381,
+              "Length": 16,
+              "Type": "TableCell",
+              "Words": [
+                {
+                  "Box": [
+                    325.01,
+                    71.9,
+                    22.99,
+                    11.04
+                  ],
+                  "IndexInText": 381,
+                  "OcrConfidence": 1.0,
+                  "Text": "ITEM"
+                },
+                {
+                  "Box": [
+                    325.01,
+                    205.61,
+                    60.36,
+                    11.04
+                  ],
+                  "IndexInText": 386,
+                  "OcrConfidence": 1.0,
+                  "Text": "DESCRIPTION"
+                }
+              ]
+            },
+            {
+              "IndexInText": 444,
+              "Length": 25,
+              "Type": "TableRowEnd",
+              "Words": [
+                {
+                  "Box": [
+                    325.01,
+                    356.47,
+                    46.64,
+                    11.04
+                  ],
+                  "IndexInText": 444,
+                  "OcrConfidence": 1.0,
+                  "Text": "QUANTITY"
+                },
+                {
+                  "Box": [
+                    325.01,
+                    428.83,
+                    22.33,
+                    11.04
+                  ],
+                  "IndexInText": 453,
+                  "OcrConfidence": 1.0,
+                  "Text": "UNIT"
+                },
+                {
+                  "Box": [
+                    325.01,
+                    453.85,
+                    25.89,
+                    11.04
+                  ],
+                  "IndexInText": 458,
+                  "OcrConfidence": 1.0,
+                  "Text": "PRICE"
+                },
+                {
+                  "Box": [
+                    325.01,
+                    517.66,
+                    29.06,
+                    11.04
+                  ],
+                  "IndexInText": 464,
+                  "OcrConfidence": 1.0,
+                  "Text": "TOTAL"
+                }
+              ]
+            },
+            {
+              "IndexInText": 505,
+              "Length": 29,
+              "Type": "TableCell",
+              "Words": [
+                {
+                  "Box": [
+                    344.81,
+                    42.0,
+                    39.57,
+                    12.0
+                  ],
+                  "IndexInText": 505,
+                  "OcrConfidence": 1.0,
+                  "Text": "Services"
+                },
+                {
+                  "Box": [
+                    344.81,
+                    136.46,
+                    28.78,
+                    12.0
+                  ],
+                  "IndexInText": 514,
+                  "OcrConfidence": 1.0,
+                  "Text": "Room"
+                },
+                {
+                  "Box": [
+                    344.81,
+                    168.0,
+                    20.36,
+                    12.0
+                  ],
+                  "IndexInText": 519,
+                  "OcrConfidence": 1.0,
+                  "Text": "Hire"
+                },
+                {
+                  "Box": [
+                    344.81,
+                    191.18,
+                    5.98,
+                    12.0
+                  ],
+                  "IndexInText": 524,
+                  "OcrConfidence": 1.0,
+                  "Text": "-"
+                },
+                {
+                  "Box": [
+                    344.81,
+                    199.85,
+                    17.7,
+                    12.0
+                  ],
+                  "IndexInText": 526,
+                  "OcrConfidence": 1.0,
+                  "Text": "Feb"
+                },
+                {
+                  "Box": [
+                    343.82,
+                    220.35,
+                    19.0,
+                    12.99
+                  ],
+                  "IndexInText": 530,
+                  "OcrConfidence": 1.0,
+                  "Text": "28th"
+                }
+              ]
+            },
+            {
+              "IndexInText": 568,
+              "Length": 15,
+              "Type": "TableRowEnd",
+              "Words": [
+                {
+                  "Box": [
+                    344.81,
+                    406.99,
+                    6.08,
+                    12.0
+                  ],
+                  "IndexInText": 568,
+                  "OcrConfidence": 1.0,
+                  "Text": "3"
+                },
+                {
+                  "Box": [
+                    344.81,
+                    450.55,
+                    33.58,
+                    12.0
+                  ],
+                  "IndexInText": 570,
+                  "OcrConfidence": 1.0,
+                  "Text": "£25.00"
+                },
+                {
+                  "Box": [
+                    344.81,
+                    535.54,
+                    33.55,
+                    12.0
+                  ],
+                  "IndexInText": 577,
+                  "OcrConfidence": 1.0,
+                  "Text": "£75.00"
+                }
+              ]
+            },
+            {
+              "IndexInText": 629,
+              "Length": 8,
+              "Type": "TableCell",
+              "Words": [
+                {
+                  "Box": [
+                    359.45,
+                    42.0,
+                    47.54,
+                    12.0
+                  ],
+                  "IndexInText": 629,
+                  "OcrConfidence": 1.0,
+                  "Text": "Rendered"
+                }
+              ]
+            },
+            {
+              "IndexInText": 692,
+              "Length": 1,
+              "Type": "TableRowEnd",
+              "Words": [
+                {
+                  "Box": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "IndexInText": 692,
+                  "OcrConfidence": 1.0,
+                  "Text": " "
+                }
+              ]
+            },
+            {
+              "IndexInText": 753,
+              "Length": 1,
+              "Type": "TableCell",
+              "Words": [
+                {
+                  "Box": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "IndexInText": 753,
+                  "OcrConfidence": 1.0,
+                  "Text": " "
+                }
+              ]
+            },
+            {
+              "IndexInText": 816,
+              "Length": 15,
+              "Type": "TableRowEnd",
+              "Words": [
+                {
+                  "Box": [
+                    380.93,
+                    433.15,
+                    50.62,
+                    12.0
+                  ],
+                  "IndexInText": 816,
+                  "OcrConfidence": 1.0,
+                  "Text": "SUBTOTAL"
+                },
+                {
+                  "Box": [
+                    379.01,
+                    535.54,
+                    33.55,
+                    12.0
+                  ],
+                  "IndexInText": 825,
+                  "OcrConfidence": 1.0,
+                  "Text": "£75.00"
+                }
+              ]
+            },
+            {
+              "IndexInText": 877,
+              "Length": 1,
+              "Type": "TableCell",
+              "Words": [
+                {
+                  "Box": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "IndexInText": 877,
+                  "OcrConfidence": 1.0,
+                  "Text": " "
+                }
+              ]
+            },
+            {
+              "IndexInText": 940,
+              "Length": 19,
+              "Type": "TableRowEnd",
+              "Words": [
+                {
+                  "Box": [
+                    402.41,
+                    419.11,
+                    19.12,
+                    12.0
+                  ],
+                  "IndexInText": 940,
+                  "OcrConfidence": 1.0,
+                  "Text": "VAT"
+                },
+                {
+                  "Box": [
+                    402.41,
+                    440.94,
+                    43.01,
+                    12.0
+                  ],
+                  "IndexInText": 944,
+                  "OcrConfidence": 1.0,
+                  "Text": "(20.00%)"
+                },
+                {
+                  "Box": [
+                    400.37,
+                    535.54,
+                    33.55,
+                    12.0
+                  ],
+                  "IndexInText": 953,
+                  "OcrConfidence": 1.0,
+                  "Text": "£15.00"
+                }
+              ]
+            },
+            {
+              "IndexInText": 1001,
+              "Length": 1,
+              "Type": "TableCell",
+              "Words": [
+                {
+                  "Box": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "IndexInText": 1001,
+                  "OcrConfidence": 1.0,
+                  "Text": " "
+                }
+              ]
+            },
+            {
+              "IndexInText": 1064,
+              "Length": 16,
+              "Type": "TableRowEnd",
+              "Words": [
+                {
+                  "Box": [
+                    423.91,
+                    429.19,
+                    31.07,
+                    12.0
+                  ],
+                  "IndexInText": 1064,
+                  "OcrConfidence": 1.0,
+                  "Text": "TOTAL"
+                },
+                {
+                  "Box": [
+                    423.91,
+                    463.02,
+                    20.84,
+                    12.0
+                  ],
+                  "IndexInText": 1070,
+                  "OcrConfidence": 1.0,
+                  "Text": "DUE"
+                },
+                {
+                  "Box": [
+                    421.87,
+                    535.54,
+                    33.55,
+                    12.0
+                  ],
+                  "IndexInText": 1074,
+                  "OcrConfidence": 1.0,
+                  "Text": "£90.00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IndexInText": 1126,
+          "Language": "eng",
+          "Length": 107,
+          "Rotation": "None",
+          "SkewAngle": 0.0,
+          "Type": "Paragraph",
+          "WordGroups": [
+            {
+              "IndexInText": 1126,
+              "Length": 107,
+              "Type": "Sentence",
+              "Words": [
+                {
+                  "Box": [
+                    470.23,
+                    41.76,
+                    31.41,
+                    12.0
+                  ],
+                  "IndexInText": 1126,
+                  "OcrConfidence": 1.0,
+                  "Text": "Please"
+                },
+                {
+                  "Box": [
+                    470.23,
+                    75.94,
+                    26.42,
+                    12.0
+                  ],
+                  "IndexInText": 1133,
+                  "OcrConfidence": 1.0,
+                  "Text": "remit"
+                },
+                {
+                  "Box": [
+                    470.23,
+                    105.07,
+                    43.38,
+                    12.0
+                  ],
+                  "IndexInText": 1139,
+                  "OcrConfidence": 1.0,
+                  "Text": "payment"
+                },
+                {
+                  "Box": [
+                    470.23,
+                    151.14,
+                    10.39,
+                    12.0
+                  ],
+                  "IndexInText": 1147,
+                  "OcrConfidence": 1.0,
+                  "Text": "to"
+                },
+                {
+                  "Box": [
+                    470.23,
+                    164.09,
+                    16.39,
+                    12.0
+                  ],
+                  "IndexInText": 1150,
+                  "OcrConfidence": 1.0,
+                  "Text": "the"
+                },
+                {
+                  "Box": [
+                    470.23,
+                    183.13,
+                    45.11,
+                    12.0
+                  ],
+                  "IndexInText": 1154,
+                  "OcrConfidence": 1.0,
+                  "Text": "following"
+                },
+                {
+                  "Box": [
+                    470.23,
+                    230.98,
+                    30.04,
+                    12.0
+                  ],
+                  "IndexInText": 1164,
+                  "OcrConfidence": 1.0,
+                  "Text": "(listed"
+                },
+                {
+                  "Box": [
+                    470.23,
+                    263.71,
+                    33.51,
+                    12.0
+                  ],
+                  "IndexInText": 1172,
+                  "OcrConfidence": 1.0,
+                  "Text": "below)"
+                },
+                {
+                  "Box": [
+                    470.23,
+                    300.17,
+                    18.41,
+                    12.0
+                  ],
+                  "IndexInText": 1179,
+                  "OcrConfidence": 1.0,
+                  "Text": "and"
+                },
+                {
+                  "Box": [
+                    470.23,
+                    321.37,
+                    31.41,
+                    12.0
+                  ],
+                  "IndexInText": 1183,
+                  "OcrConfidence": 1.0,
+                  "Text": "please"
+                },
+                {
+                  "Box": [
+                    484.87,
+                    41.76,
+                    47.33,
+                    12.0
+                  ],
+                  "IndexInText": 1190,
+                  "OcrConfidence": 1.0,
+                  "Text": "reference"
+                },
+                {
+                  "Box": [
+                    484.87,
+                    91.86,
+                    34.55,
+                    12.0
+                  ],
+                  "IndexInText": 1200,
+                  "OcrConfidence": 1.0,
+                  "Text": "invoice"
+                },
+                {
+                  "Box": [
+                    484.87,
+                    129.05,
+                    50.52,
+                    12.0
+                  ],
+                  "IndexInText": 1208,
+                  "OcrConfidence": 1.0,
+                  "Text": "number(s)"
+                },
+                {
+                  "Box": [
+                    484.87,
+                    182.28,
+                    18.06,
+                    12.0
+                  ],
+                  "IndexInText": 1218,
+                  "OcrConfidence": 1.0,
+                  "Text": "you"
+                },
+                {
+                  "Box": [
+                    484.87,
+                    203.15,
+                    15.91,
+                    12.0
+                  ],
+                  "IndexInText": 1222,
+                  "OcrConfidence": 1.0,
+                  "Text": "are"
+                },
+                {
+                  "Box": [
+                    484.87,
+                    221.74,
+                    35.26,
+                    12.0
+                  ],
+                  "IndexInText": 1226,
+                  "OcrConfidence": 1.0,
+                  "Text": "paying."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IndexInText": 1235,
+          "Language": "eng",
+          "Length": 188,
+          "Rotation": "None",
+          "SkewAngle": 0.0,
+          "Type": "Paragraph",
+          "WordGroups": [
+            {
+              "IndexInText": 1235,
+              "Length": 188,
+              "Type": "Other",
+              "Words": [
+                {
+                  "Box": [
+                    522.67,
+                    41.76,
+                    54.47,
+                    12.0
+                  ],
+                  "IndexInText": 1235,
+                  "OcrConfidence": 1.0,
+                  "Text": "Beneficiary"
+                },
+                {
+                  "Box": [
+                    522.67,
+                    98.96,
+                    27.21,
+                    12.0
+                  ],
+                  "IndexInText": 1247,
+                  "OcrConfidence": 1.0,
+                  "Text": "Bank:"
+                },
+                {
+                  "Box": [
+                    522.67,
+                    128.9,
+                    26.28,
+                    12.0
+                  ],
+                  "IndexInText": 1253,
+                  "OcrConfidence": 1.0,
+                  "Text": "HSBC"
+                },
+                {
+                  "Box": [
+                    522.67,
+                    157.82,
+                    27.93,
+                    12.0
+                  ],
+                  "IndexInText": 1258,
+                  "OcrConfidence": 1.0,
+                  "Text": "Bank,"
+                },
+                {
+                  "Box": [
+                    522.67,
+                    188.52,
+                    15.17,
+                    12.0
+                  ],
+                  "IndexInText": 1264,
+                  "OcrConfidence": 1.0,
+                  "Text": "NA"
+                },
+                {
+                  "Box": [
+                    537.31,
+                    41.76,
+                    54.47,
+                    12.0
+                  ],
+                  "IndexInText": 1267,
+                  "OcrConfidence": 1.0,
+                  "Text": "Beneficiary"
+                },
+                {
+                  "Box": [
+                    537.31,
+                    98.96,
+                    24.05,
+                    12.0
+                  ],
+                  "IndexInText": 1279,
+                  "OcrConfidence": 1.0,
+                  "Text": "Bank"
+                },
+                {
+                  "Box": [
+                    537.31,
+                    125.7,
+                    27.69,
+                    12.0
+                  ],
+                  "IndexInText": 1284,
+                  "OcrConfidence": 1.0,
+                  "Text": "Swift:"
+                },
+                {
+                  "Box": [
+                    537.31,
+                    156.26,
+                    53.4,
+                    12.0
+                  ],
+                  "IndexInText": 1291,
+                  "OcrConfidence": 1.0,
+                  "Text": "HSBCUK4B"
+                },
+                {
+                  "Box": [
+                    551.95,
+                    41.76,
+                    20.08,
+                    12.0
+                  ],
+                  "IndexInText": 1300,
+                  "OcrConfidence": 1.0,
+                  "Text": "Sort"
+                },
+                {
+                  "Box": [
+                    551.95,
+                    64.64,
+                    28.15,
+                    12.0
+                  ],
+                  "IndexInText": 1305,
+                  "OcrConfidence": 1.0,
+                  "Text": "Code:"
+                },
+                {
+                  "Box": [
+                    551.95,
+                    95.54,
+                    43.88,
+                    12.0
+                  ],
+                  "IndexInText": 1311,
+                  "OcrConfidence": 1.0,
+                  "Text": "40-45-32"
+                },
+                {
+                  "Box": [
+                    566.71,
+                    41.76,
+                    27.45,
+                    12.0
+                  ],
+                  "IndexInText": 1320,
+                  "OcrConfidence": 1.0,
+                  "Text": "IBAN:"
+                },
+                {
+                  "Box": [
+                    566.71,
+                    72.02,
+                    138.11,
+                    12.0
+                  ],
+                  "IndexInText": 1326,
+                  "OcrConfidence": 1.0,
+                  "Text": "GB32HSBC40453251216228"
+                },
+                {
+                  "Box": [
+                    581.35,
+                    41.76,
+                    54.47,
+                    12.0
+                  ],
+                  "IndexInText": 1349,
+                  "OcrConfidence": 1.0,
+                  "Text": "Beneficiary"
+                },
+                {
+                  "Box": [
+                    581.35,
+                    98.96,
+                    39.99,
+                    12.0
+                  ],
+                  "IndexInText": 1361,
+                  "OcrConfidence": 1.0,
+                  "Text": "Account"
+                },
+                {
+                  "Box": [
+                    581.35,
+                    141.66,
+                    32.24,
+                    12.0
+                  ],
+                  "IndexInText": 1369,
+                  "OcrConfidence": 1.0,
+                  "Text": "Name:"
+                },
+                {
+                  "Box": [
+                    581.35,
+                    176.78,
+                    20.39,
+                    12.0
+                  ],
+                  "IndexInText": 1375,
+                  "OcrConfidence": 1.0,
+                  "Text": "ABC"
+                },
+                {
+                  "Box": [
+                    581.35,
+                    199.85,
+                    23.47,
+                    12.0
+                  ],
+                  "IndexInText": 1379,
+                  "OcrConfidence": 1.0,
+                  "Text": "Corp"
+                },
+                {
+                  "Box": [
+                    581.35,
+                    226.09,
+                    14.4,
+                    12.0
+                  ],
+                  "IndexInText": 1384,
+                  "OcrConfidence": 1.0,
+                  "Text": "UK"
+                },
+                {
+                  "Box": [
+                    596.02,
+                    41.76,
+                    54.47,
+                    12.0
+                  ],
+                  "IndexInText": 1387,
+                  "OcrConfidence": 1.0,
+                  "Text": "Beneficiary"
+                },
+                {
+                  "Box": [
+                    596.02,
+                    98.96,
+                    39.99,
+                    12.0
+                  ],
+                  "IndexInText": 1399,
+                  "OcrConfidence": 1.0,
+                  "Text": "Account"
+                },
+                {
+                  "Box": [
+                    596.02,
+                    141.66,
+                    43.3,
+                    12.0
+                  ],
+                  "IndexInText": 1407,
+                  "OcrConfidence": 1.0,
+                  "Text": "Number:"
+                },
+                {
+                  "Box": [
+                    596.02,
+                    187.7,
+                    48.71,
+                    12.0
+                  ],
+                  "IndexInText": 1415,
+                  "OcrConfidence": 1.0,
+                  "Text": "51216228"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IndexInText": 1425,
+          "Language": "eng",
+          "Length": 79,
+          "Rotation": "None",
+          "SkewAngle": 0.0,
+          "Type": "Paragraph",
+          "WordGroups": [
+            {
+              "IndexInText": 1425,
+              "Length": 54,
+              "Type": "Sentence",
+              "Words": [
+                {
+                  "Box": [
+                    625.3,
+                    41.76,
+                    12.47,
+                    12.0
+                  ],
+                  "IndexInText": 1425,
+                  "OcrConfidence": 1.0,
+                  "Text": "All"
+                },
+                {
+                  "Box": [
+                    625.3,
+                    56.99,
+                    21.45,
+                    12.0
+                  ],
+                  "IndexInText": 1429,
+                  "OcrConfidence": 1.0,
+                  "Text": "wire"
+                },
+                {
+                  "Box": [
+                    625.3,
+                    81.26,
+                    43.42,
+                    12.0
+                  ],
+                  "IndexInText": 1434,
+                  "OcrConfidence": 1.0,
+                  "Text": "transfers"
+                },
+                {
+                  "Box": [
+                    625.3,
+                    127.42,
+                    24.54,
+                    12.0
+                  ],
+                  "IndexInText": 1444,
+                  "OcrConfidence": 1.0,
+                  "Text": "must"
+                },
+                {
+                  "Box": [
+                    625.3,
+                    154.63,
+                    35.48,
+                    12.0
+                  ],
+                  "IndexInText": 1449,
+                  "OcrConfidence": 1.0,
+                  "Text": "include"
+                },
+                {
+                  "Box": [
+                    625.3,
+                    192.77,
+                    16.29,
+                    12.0
+                  ],
+                  "IndexInText": 1457,
+                  "OcrConfidence": 1.0,
+                  "Text": "the"
+                },
+                {
+                  "Box": [
+                    625.3,
+                    211.82,
+                    45.11,
+                    12.0
+                  ],
+                  "IndexInText": 1461,
+                  "OcrConfidence": 1.0,
+                  "Text": "following"
+                },
+                {
+                  "Box": [
+                    625.3,
+                    259.67,
+                    22.13,
+                    12.0
+                  ],
+                  "IndexInText": 1471,
+                  "OcrConfidence": 1.0,
+                  "Text": "info:"
+                },
+                {
+                  "Box": [
+                    639.94,
+                    41.76,
+                    9.1,
+                    12.0
+                  ],
+                  "IndexInText": 1477,
+                  "OcrConfidence": 1.0,
+                  "Text": "1."
+                }
+              ]
+            },
+            {
+              "IndexInText": 1480,
+              "Length": 15,
+              "Type": "Sentence",
+              "Words": [
+                {
+                  "Box": [
+                    639.94,
+                    53.63,
+                    46.08,
+                    12.0
+                  ],
+                  "IndexInText": 1480,
+                  "OcrConfidence": 1.0,
+                  "Text": "Company"
+                },
+                {
+                  "Box": [
+                    639.94,
+                    102.42,
+                    27.58,
+                    12.0
+                  ],
+                  "IndexInText": 1488,
+                  "OcrConfidence": 1.0,
+                  "Text": "name"
+                },
+                {
+                  "Box": [
+                    654.58,
+                    41.76,
+                    9.1,
+                    12.0
+                  ],
+                  "IndexInText": 1493,
+                  "OcrConfidence": 1.0,
+                  "Text": "2."
+                }
+              ]
+            },
+            {
+              "IndexInText": 1496,
+              "Length": 8,
+              "Type": "Other",
+              "Words": [
+                {
+                  "Box": [
+                    654.58,
+                    53.63,
+                    28.63,
+                    12.0
+                  ],
+                  "IndexInText": 1496,
+                  "OcrConfidence": 1.0,
+                  "Text": "Order"
+                },
+                {
+                  "Box": [
+                    654.58,
+                    84.92,
+                    10.41,
+                    12.0
+                  ],
+                  "IndexInText": 1502,
+                  "OcrConfidence": 1.0,
+                  "Text": "ID"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IndexInText": 1506,
+          "Language": "eng",
+          "Length": 84,
+          "Rotation": "None",
+          "SkewAngle": 0.0,
+          "Type": "Paragraph",
+          "WordGroups": [
+            {
+              "IndexInText": 1506,
+              "Length": 84,
+              "Type": "Other",
+              "Words": [
+                {
+                  "Box": [
+                    683.86,
+                    41.76,
+                    16.06,
+                    12.0
+                  ],
+                  "IndexInText": 1506,
+                  "OcrConfidence": 1.0,
+                  "Text": "For"
+                },
+                {
+                  "Box": [
+                    683.86,
+                    60.58,
+                    47.37,
+                    12.0
+                  ],
+                  "IndexInText": 1510,
+                  "OcrConfidence": 1.0,
+                  "Text": "questions"
+                },
+                {
+                  "Box": [
+                    683.86,
+                    110.58,
+                    31.53,
+                    12.0
+                  ],
+                  "IndexInText": 1520,
+                  "OcrConfidence": 1.0,
+                  "Text": "please"
+                },
+                {
+                  "Box": [
+                    683.86,
+                    144.74,
+                    36.53,
+                    12.0
+                  ],
+                  "IndexInText": 1527,
+                  "OcrConfidence": 1.0,
+                  "Text": "contact"
+                },
+                {
+                  "Box": [
+                    683.86,
+                    183.96,
+                    11.04,
+                    12.0
+                  ],
+                  "IndexInText": 1535,
+                  "OcrConfidence": 1.0,
+                  "Text": "us"
+                },
+                {
+                  "Box": [
+                    683.86,
+                    197.74,
+                    13.93,
+                    12.0
+                  ],
+                  "IndexInText": 1538,
+                  "OcrConfidence": 1.0,
+                  "Text": "via"
+                },
+                {
+                  "Box": [
+                    683.86,
+                    214.3,
+                    16.39,
+                    12.0
+                  ],
+                  "IndexInText": 1542,
+                  "OcrConfidence": 1.0,
+                  "Text": "the"
+                },
+                {
+                  "Box": [
+                    683.86,
+                    233.34,
+                    45.11,
+                    12.0
+                  ],
+                  "IndexInText": 1546,
+                  "OcrConfidence": 1.0,
+                  "Text": "following"
+                },
+                {
+                  "Box": [
+                    683.86,
+                    281.08,
+                    26.86,
+                    12.0
+                  ],
+                  "IndexInText": 1556,
+                  "OcrConfidence": 1.0,
+                  "Text": "email"
+                },
+                {
+                  "Box": [
+                    683.86,
+                    310.69,
+                    41.14,
+                    12.0
+                  ],
+                  "IndexInText": 1562,
+                  "OcrConfidence": 1.0,
+                  "Text": "address:"
+                },
+                {
+                  "Box": [
+                    683.86,
+                    354.46,
+                    114.88,
+                    12.0
+                  ],
+                  "IndexInText": 1571,
+                  "OcrConfidence": 1.0,
+                  "Text": "accounting@acme.com"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IndexInText": 1592,
+          "Language": "eng",
+          "Length": 28,
+          "Rotation": "None",
+          "SkewAngle": 0.0,
+          "Type": "Paragraph",
+          "WordGroups": [
+            {
+              "IndexInText": 1592,
+              "Length": 28,
+              "Type": "Sentence",
+              "Words": [
+                {
+                  "Box": [
+                    718.78,
+                    230.45,
+                    15.23,
+                    11.04
+                  ],
+                  "IndexInText": 1592,
+                  "OcrConfidence": 1.0,
+                  "Text": "WE"
+                },
+                {
+                  "Box": [
+                    718.78,
+                    248.3,
+                    54.91,
+                    11.04
+                  ],
+                  "IndexInText": 1595,
+                  "OcrConfidence": 1.0,
+                  "Text": "APPRECIATE"
+                },
+                {
+                  "Box": [
+                    718.78,
+                    305.83,
+                    25.51,
+                    11.04
+                  ],
+                  "IndexInText": 1606,
+                  "OcrConfidence": 1.0,
+                  "Text": "YOUR"
+                },
+                {
+                  "Box": [
+                    718.78,
+                    333.98,
+                    47.38,
+                    11.04
+                  ],
+                  "IndexInText": 1611,
+                  "OcrConfidence": 1.0,
+                  "Text": "BUSINESS!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ProcessingSource": "Pdf",
+      "IndexInText": 0,
+      "TextLength": 1620
+    }
+  ]
+}
+{
+  "DocumentId": "document-0003-Demo-Invoice-2",
+  "ContentType": "application/pdf",
+  "Length": 1620,
+  "Pages": [
+    {
+      "PageIndex": 0,
+      "Size": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "Sections": [
+        {
+          "IndexInText": 0,
+          "Language": "eng",
+          "Length": 8,
+          "Rotation": "None",
+          "SkewAngle": 0.0,
+          "Type": "Paragraph",
+          "WordGroups": [
+            {
+              "IndexInText": 0,
+              "Length": 8,
+              "Type": "Heading",
+              "Words": [
+                {
+                  "Box": [
+                    63.78,
+                    99.98,
+                    30.53,
+                    18.0
+                  ],
+                  "IndexInText": 0,
+                  "OcrConfidence": 1.0,
+                  "Text": "ABC"
+                },
+                {
+                  "Box": [
+                    63.78,
+                    134.58,
+                    28.25,
+                    18.0
+                  ],
+                  "IndexInText": 4,
+                  "OcrConfidence": 1.0,
+                  "Text": "Ltd."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IndexInText": 10,
+          "Language": "eng",
+          "Length": 68,
+          "Rotation": "None",
+          "SkewAngle": 0.0,
+          "Type": "Paragraph",
+          "WordGroups": [
+            {
+              "IndexInText": 10,
+              "Length": 68,
+              "Type": "Other",
+              "Words": [
+                {
+                  "Box": [
+                    99.14,
+                    41.76,
+                    34.91,
+                    12.0
+                  ],
+                  "IndexInText": 10,
+                  "OcrConfidence": 1.0,
+                  "Text": "Invoice"
+                },
+                {
+                  "Box": [
+                    99.14,
+                    79.42,
+                    43.26,
+                    12.0
+                  ],
+                  "IndexInText": 18,
+                  "OcrConfidence": 1.0,
+                  "Text": "Number:"
+                },
+                {
+                  "Box": [
+                    99.14,
+                    125.54,
+                    70.28,
+                    12.0
+                  ],
+                  "IndexInText": 26,
+                  "OcrConfidence": 1.0,
+                  "Text": "UK-INV-03645"
+                },
+                {
+                  "Box": [
+                    113.78,
+                    41.76,
+                    28.63,
+                    12.0
+                  ],
+                  "IndexInText": 39,
+                  "OcrConfidence": 1.0,
+                  "Text": "Order"
+                },
+                {
+                  "Box": [
+                    113.78,
+                    73.16,
+                    13.54,
+                    12.0
+                  ],
+                  "IndexInText": 45,
+                  "OcrConfidence": 1.0,
+                  "Text": "ID:"
+                },
+                {
+                  "Box": [
+                    113.78,
+                    89.54,
+                    48.54,
+                    12.0
+                  ],
+                  "IndexInText": 49,
+                  "OcrConfidence": 1.0,
+                  "Text": "23450134"
+                },
+                {
+                  "Box": [
+                    128.42,
+                    41.76,
+                    19.76,
+                    12.0
+                  ],
+                  "IndexInText": 58,
+                  "OcrConfidence": 1.0,
+                  "Text": "Due"
+                },
+                {
+                  "Box": [
+                    128.42,
+                    64.16,
+                    26.34,
+                    12.0
+                  ],
+                  "IndexInText": 62,
+                  "OcrConfidence": 1.0,
+                  "Text": "Date:"
+                },
+                {
+                  "Box": [
+                    128.42,
+                    93.17,
+                    58.0,
+                    12.0
+                  ],
+                  "IndexInText": 68,
+                  "OcrConfidence": 1.0,
+                  "Text": "07/03/2018"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IndexInText": 80,
+          "Language": "eng",
+          "Length": 18,
+          "Rotation": "None",
+          "SkewAngle": 0.0,
+          "Type": "Paragraph",
+          "WordGroups": [
+            {
+              "IndexInText": 80,
+              "Length": 18,
+              "Type": "Other",
+              "Words": [
+                {
+                  "Box": [
+                    179.3,
+                    41.76,
+                    19.03,
+                    11.04
+                  ],
+                  "IndexInText": 80,
+                  "OcrConfidence": 1.0,
+                  "Text": "BILL"
+                },
+                {
+                  "Box": [
+                    179.3,
+                    63.62,
+                    16.48,
+                    11.04
+                  ],
+                  "IndexInText": 85,
+                  "OcrConfidence": 1.0,
+                  "Text": "TO:"
+                },
+                {
+                  "Box": [
+                    194.42,
+                    41.76,
+                    29.46,
+                    12.0
+                  ],
+                  "IndexInText": 89,
+                  "OcrConfidence": 1.0,
+                  "Text": "ACME"
+                },
+                {
+                  "Box": [
+                    194.42,
+                    74.02,
+                    18.36,
+                    12.0
+                  ],
+                  "IndexInText": 94,
+                  "OcrConfidence": 1.0,
+                  "Text": "Ltd."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IndexInText": 100,
+          "Language": "ron",
+          "Length": 11,
+          "Rotation": "None",
+          "SkewAngle": 0.0,
+          "Type": "Paragraph",
+          "WordGroups": [
+            {
+              "IndexInText": 100,
+              "Length": 11,
+              "Type": "Other",
+              "Words": [
+                {
+                  "Box": [
+                    39.66,
+                    481.3,
+                    28.0,
+                    18.0
+                  ],
+                  "IndexInText": 100,
+                  "OcrConfidence": 1.0,
+                  "Text": "VAT"
+                },
+                {
+                  "Box": [
+                    39.66,
+                    512.86,
+                    58.23,
+                    18.0
+                  ],
+                  "IndexInText": 104,
+                  "OcrConfidence": 1.0,
+                  "Text": "INVOICE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IndexInText": 113,
+          "Language": "eng",
+          "Length": 18,
+          "Rotation": "None",
+          "SkewAngle": 0.0,
+          "Type": "Paragraph",
+          "WordGroups": [
+            {
+              "IndexInText": 113,
+              "Length": 18,
+              "Type": "Other",
+              "Words": [
+                {
+                  "Box": [
+                    179.3,
+                    311.81,
+                    21.56,
+                    11.04
+                  ],
+                  "IndexInText": 113,
+                  "OcrConfidence": 1.0,
+                  "Text": "SHIP"
+                },
+                {
+                  "Box": [
+                    179.3,
+                    336.23,
+                    16.35,
+                    11.04
+                  ],
+                  "IndexInText": 118,
+                  "OcrConfidence": 1.0,
+                  "Text": "TO:"
+                },
+                {
+                  "Box": [
+                    194.42,
+                    311.81,
+                    29.46,
+                    12.0
+                  ],
+                  "IndexInText": 122,
+                  "OcrConfidence": 1.0,
+                  "Text": "ACME"
+                },
+                {
+                  "Box": [
+                    194.42,
+                    344.07,
+                    18.36,
+                    12.0
+                  ],
+                  "IndexInText": 127,
+                  "OcrConfidence": 1.0,
+                  "Text": "Ltd."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IndexInText": 133,
+          "Language": "eng",
+          "Length": 991,
+          "Rotation": "None",
+          "SkewAngle": 0.0,
+          "Type": "Table",
+          "WordGroups": [
+            {
+              "IndexInText": 133,
+              "Length": 60,
+              "Type": "TableCell",
+              "Words": [
+                {
+                  "Box": [
+                    209.06,
+                    41.76,
+                    6.08,
+                    12.0
+                  ],
+                  "IndexInText": 133,
+                  "OcrConfidence": 1.0,
+                  "Text": "7"
+                },
+                {
+                  "Box": [
+                    209.06,
+                    50.63,
+                    44.78,
+                    12.0
+                  ],
+                  "IndexInText": 135,
+                  "OcrConfidence": 1.0,
+                  "Text": "Rockfield"
+                },
+                {
+                  "Box": [
+                    209.06,
+                    98.12,
+                    41.98,
+                    12.0
+                  ],
+                  "IndexInText": 145,
+                  "OcrConfidence": 1.0,
+                  "Text": "Business"
+                },
+                {
+                  "Box": [
+                    209.06,
+                    142.74,
+                    24.56,
+                    12.0
+                  ],
+                  "IndexInText": 154,
+                  "OcrConfidence": 1.0,
+                  "Text": "Park,"
+                },
+                {
+                  "Box": [
+                    209.06,
+                    170.06,
+                    17.0,
+                    12.0
+                  ],
+                  "IndexInText": 160,
+                  "OcrConfidence": 1.0,
+                  "Text": "Old"
+                },
+                {
+                  "Box": [
+                    209.06,
+                    189.84,
+                    34.56,
+                    12.0
+                  ],
+                  "IndexInText": 164,
+                  "OcrConfidence": 1.0,
+                  "Text": "Station"
+                },
+                {
+                  "Box": [
+                    209.06,
+                    227.12,
+                    13.95,
+                    12.0
+                  ],
+                  "IndexInText": 172,
+                  "OcrConfidence": 1.0,
+                  "Text": "DR"
+                },
+                {
+                  "Box": [
+                    223.7,
+                    41.76,
+                    59.45,
+                    12.0
+                  ],
+                  "IndexInText": 175,
+                  "OcrConfidence": 1.0,
+                  "Text": "Cheltenham"
+                },
+                {
+                  "Box": [
+                    238.34,
+                    41.76,
+                    45.65,
+                    12.0
+                  ],
+                  "IndexInText": 186,
+                  "OcrConfidence": 1.0,
+                  "Text": "GL530AN"
+                }
+              ]
+            },
+            {
+              "IndexInText": 196,
+              "Length": 60,
+              "Type": "TableRowEnd",
+              "Words": [
+                {
+                  "Box": [
+                    209.06,
+                    311.81,
+                    6.08,
+                    12.0
+                  ],
+                  "IndexInText": 196,
+                  "OcrConfidence": 1.0,
+                  "Text": "7"
+                },
+                {
+                  "Box": [
+                    209.06,
+                    320.68,
+                    44.78,
+                    12.0
+                  ],
+                  "IndexInText": 198,
+                  "OcrConfidence": 1.0,
+                  "Text": "Rockfield"
+                },
+                {
+                  "Box": [
+                    209.06,
+                    368.17,
+                    41.98,
+                    12.0
+                  ],
+                  "IndexInText": 208,
+                  "OcrConfidence": 1.0,
+                  "Text": "Business"
+                },
+                {
+                  "Box": [
+                    209.06,
+                    412.79,
+                    24.56,
+                    12.0
+                  ],
+                  "IndexInText": 217,
+                  "OcrConfidence": 1.0,
+                  "Text": "Park,"
+                },
+                {
+                  "Box": [
+                    209.06,
+                    440.11,
+                    17.0,
+                    12.0
+                  ],
+                  "IndexInText": 223,
+                  "OcrConfidence": 1.0,
+                  "Text": "Old"
+                },
+                {
+                  "Box": [
+                    209.06,
+                    459.89,
+                    34.56,
+                    12.0
+                  ],
+                  "IndexInText": 227,
+                  "OcrConfidence": 1.0,
+                  "Text": "Station"
+                },
+                {
+                  "Box": [
+                    209.06,
+                    497.17,
+                    13.95,
+                    12.0
+                  ],
+                  "IndexInText": 235,
+                  "OcrConfidence": 1.0,
+                  "Text": "DR"
+                },
+                {
+                  "Box": [
+                    223.7,
+                    311.81,
+                    59.45,
+                    12.0
+                  ],
+                  "IndexInText": 238,
+                  "OcrConfidence": 1.0,
+                  "Text": "Cheltenham"
+                },
+                {
+                  "Box": [
+                    238.34,
+                    311.81,
+                    45.65,
+                    12.0
+                  ],
+                  "IndexInText": 249,
+                  "OcrConfidence": 1.0,
+                  "Text": "GL530AN"
+                }
+              ]
+            },
+            {
+              "IndexInText": 257,
+              "Length": 13,
+              "Type": "TableCell",
+              "Words": [
+                {
+                  "Box": [
+                    274.13,
+                    41.76,
+                    47.14,
+                    12.0
+                  ],
+                  "IndexInText": 257,
+                  "OcrConfidence": 1.0,
+                  "Text": "Currency:"
+                },
+                {
+                  "Box": [
+                    274.13,
+                    91.63,
+                    20.24,
+                    12.0
+                  ],
+                  "IndexInText": 267,
+                  "OcrConfidence": 1.0,
+                  "Text": "GBP"
+                }
+              ]
+            },
+            {
+              "IndexInText": 320,
+              "Length": 1,
+              "Type": "TableRowEnd",
+              "Words": [
+                {
+                  "Box": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "IndexInText": 320,
+                  "OcrConfidence": 1.0,
+                  "Text": " "
+                }
+              ]
+            },
+            {
+              "IndexInText": 381,
+              "Length": 16,
+              "Type": "TableCell",
+              "Words": [
+                {
+                  "Box": [
+                    325.01,
+                    71.9,
+                    22.99,
+                    11.04
+                  ],
+                  "IndexInText": 381,
+                  "OcrConfidence": 1.0,
+                  "Text": "ITEM"
+                },
+                {
+                  "Box": [
+                    325.01,
+                    205.61,
+                    60.36,
+                    11.04
+                  ],
+                  "IndexInText": 386,
+                  "OcrConfidence": 1.0,
+                  "Text": "DESCRIPTION"
+                }
+              ]
+            },
+            {
+              "IndexInText": 444,
+              "Length": 25,
+              "Type": "TableRowEnd",
+              "Words": [
+                {
+                  "Box": [
+                    325.01,
+                    356.47,
+                    46.64,
+                    11.04
+                  ],
+                  "IndexInText": 444,
+                  "OcrConfidence": 1.0,
+                  "Text": "QUANTITY"
+                },
+                {
+                  "Box": [
+                    325.01,
+                    428.83,
+                    22.33,
+                    11.04
+                  ],
+                  "IndexInText": 453,
+                  "OcrConfidence": 1.0,
+                  "Text": "UNIT"
+                },
+                {
+                  "Box": [
+                    325.01,
+                    453.85,
+                    25.89,
+                    11.04
+                  ],
+                  "IndexInText": 458,
+                  "OcrConfidence": 1.0,
+                  "Text": "PRICE"
+                },
+                {
+                  "Box": [
+                    325.01,
+                    517.66,
+                    29.06,
+                    11.04
+                  ],
+                  "IndexInText": 464,
+                  "OcrConfidence": 1.0,
+                  "Text": "TOTAL"
+                }
+              ]
+            },
+            {
+              "IndexInText": 505,
+              "Length": 29,
+              "Type": "TableCell",
+              "Words": [
+                {
+                  "Box": [
+                    344.81,
+                    42.0,
+                    39.57,
+                    12.0
+                  ],
+                  "IndexInText": 505,
+                  "OcrConfidence": 1.0,
+                  "Text": "Services"
+                },
+                {
+                  "Box": [
+                    344.81,
+                    136.46,
+                    28.78,
+                    12.0
+                  ],
+                  "IndexInText": 514,
+                  "OcrConfidence": 1.0,
+                  "Text": "Room"
+                },
+                {
+                  "Box": [
+                    344.81,
+                    168.0,
+                    20.36,
+                    12.0
+                  ],
+                  "IndexInText": 519,
+                  "OcrConfidence": 1.0,
+                  "Text": "Hire"
+                },
+                {
+                  "Box": [
+                    344.81,
+                    191.18,
+                    5.98,
+                    12.0
+                  ],
+                  "IndexInText": 524,
+                  "OcrConfidence": 1.0,
+                  "Text": "-"
+                },
+                {
+                  "Box": [
+                    344.81,
+                    199.85,
+                    17.7,
+                    12.0
+                  ],
+                  "IndexInText": 526,
+                  "OcrConfidence": 1.0,
+                  "Text": "Feb"
+                },
+                {
+                  "Box": [
+                    343.82,
+                    220.35,
+                    19.0,
+                    12.99
+                  ],
+                  "IndexInText": 530,
+                  "OcrConfidence": 1.0,
+                  "Text": "28th"
+                }
+              ]
+            },
+            {
+              "IndexInText": 568,
+              "Length": 15,
+              "Type": "TableRowEnd",
+              "Words": [
+                {
+                  "Box": [
+                    344.81,
+                    406.99,
+                    6.08,
+                    12.0
+                  ],
+                  "IndexInText": 568,
+                  "OcrConfidence": 1.0,
+                  "Text": "3"
+                },
+                {
+                  "Box": [
+                    344.81,
+                    450.55,
+                    33.58,
+                    12.0
+                  ],
+                  "IndexInText": 570,
+                  "OcrConfidence": 1.0,
+                  "Text": "£25.00"
+                },
+                {
+                  "Box": [
+                    344.81,
+                    535.54,
+                    33.55,
+                    12.0
+                  ],
+                  "IndexInText": 577,
+                  "OcrConfidence": 1.0,
+                  "Text": "£75.00"
+                }
+              ]
+            },
+            {
+              "IndexInText": 629,
+              "Length": 8,
+              "Type": "TableCell",
+              "Words": [
+                {
+                  "Box": [
+                    359.45,
+                    42.0,
+                    47.54,
+                    12.0
+                  ],
+                  "IndexInText": 629,
+                  "OcrConfidence": 1.0,
+                  "Text": "Rendered"
+                }
+              ]
+            },
+            {
+              "IndexInText": 692,
+              "Length": 1,
+              "Type": "TableRowEnd",
+              "Words": [
+                {
+                  "Box": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "IndexInText": 692,
+                  "OcrConfidence": 1.0,
+                  "Text": " "
+                }
+              ]
+            },
+            {
+              "IndexInText": 753,
+              "Length": 1,
+              "Type": "TableCell",
+              "Words": [
+                {
+                  "Box": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "IndexInText": 753,
+                  "OcrConfidence": 1.0,
+                  "Text": " "
+                }
+              ]
+            },
+            {
+              "IndexInText": 816,
+              "Length": 15,
+              "Type": "TableRowEnd",
+              "Words": [
+                {
+                  "Box": [
+                    380.93,
+                    433.15,
+                    50.62,
+                    12.0
+                  ],
+                  "IndexInText": 816,
+                  "OcrConfidence": 1.0,
+                  "Text": "SUBTOTAL"
+                },
+                {
+                  "Box": [
+                    379.01,
+                    535.54,
+                    33.55,
+                    12.0
+                  ],
+                  "IndexInText": 825,
+                  "OcrConfidence": 1.0,
+                  "Text": "£75.00"
+                }
+              ]
+            },
+            {
+              "IndexInText": 877,
+              "Length": 1,
+              "Type": "TableCell",
+              "Words": [
+                {
+                  "Box": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "IndexInText": 877,
+                  "OcrConfidence": 1.0,
+                  "Text": " "
+                }
+              ]
+            },
+            {
+              "IndexInText": 940,
+              "Length": 19,
+              "Type": "TableRowEnd",
+              "Words": [
+                {
+                  "Box": [
+                    402.41,
+                    419.11,
+                    19.12,
+                    12.0
+                  ],
+                  "IndexInText": 940,
+                  "OcrConfidence": 1.0,
+                  "Text": "VAT"
+                },
+                {
+                  "Box": [
+                    402.41,
+                    440.94,
+                    43.01,
+                    12.0
+                  ],
+                  "IndexInText": 944,
+                  "OcrConfidence": 1.0,
+                  "Text": "(20.00%)"
+                },
+                {
+                  "Box": [
+                    400.37,
+                    535.54,
+                    33.55,
+                    12.0
+                  ],
+                  "IndexInText": 953,
+                  "OcrConfidence": 1.0,
+                  "Text": "£15.00"
+                }
+              ]
+            },
+            {
+              "IndexInText": 1001,
+              "Length": 1,
+              "Type": "TableCell",
+              "Words": [
+                {
+                  "Box": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "IndexInText": 1001,
+                  "OcrConfidence": 1.0,
+                  "Text": " "
+                }
+              ]
+            },
+            {
+              "IndexInText": 1064,
+              "Length": 16,
+              "Type": "TableRowEnd",
+              "Words": [
+                {
+                  "Box": [
+                    423.91,
+                    429.19,
+                    31.07,
+                    12.0
+                  ],
+                  "IndexInText": 1064,
+                  "OcrConfidence": 1.0,
+                  "Text": "TOTAL"
+                },
+                {
+                  "Box": [
+                    423.91,
+                    463.02,
+                    20.84,
+                    12.0
+                  ],
+                  "IndexInText": 1070,
+                  "OcrConfidence": 1.0,
+                  "Text": "DUE"
+                },
+                {
+                  "Box": [
+                    421.87,
+                    535.54,
+                    33.55,
+                    12.0
+                  ],
+                  "IndexInText": 1074,
+                  "OcrConfidence": 1.0,
+                  "Text": "£90.00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IndexInText": 1126,
+          "Language": "eng",
+          "Length": 107,
+          "Rotation": "None",
+          "SkewAngle": 0.0,
+          "Type": "Paragraph",
+          "WordGroups": [
+            {
+              "IndexInText": 1126,
+              "Length": 107,
+              "Type": "Sentence",
+              "Words": [
+                {
+                  "Box": [
+                    470.23,
+                    41.76,
+                    31.41,
+                    12.0
+                  ],
+                  "IndexInText": 1126,
+                  "OcrConfidence": 1.0,
+                  "Text": "Please"
+                },
+                {
+                  "Box": [
+                    470.23,
+                    75.94,
+                    26.42,
+                    12.0
+                  ],
+                  "IndexInText": 1133,
+                  "OcrConfidence": 1.0,
+                  "Text": "remit"
+                },
+                {
+                  "Box": [
+                    470.23,
+                    105.07,
+                    43.38,
+                    12.0
+                  ],
+                  "IndexInText": 1139,
+                  "OcrConfidence": 1.0,
+                  "Text": "payment"
+                },
+                {
+                  "Box": [
+                    470.23,
+                    151.14,
+                    10.39,
+                    12.0
+                  ],
+                  "IndexInText": 1147,
+                  "OcrConfidence": 1.0,
+                  "Text": "to"
+                },
+                {
+                  "Box": [
+                    470.23,
+                    164.09,
+                    16.39,
+                    12.0
+                  ],
+                  "IndexInText": 1150,
+                  "OcrConfidence": 1.0,
+                  "Text": "the"
+                },
+                {
+                  "Box": [
+                    470.23,
+                    183.13,
+                    45.11,
+                    12.0
+                  ],
+                  "IndexInText": 1154,
+                  "OcrConfidence": 1.0,
+                  "Text": "following"
+                },
+                {
+                  "Box": [
+                    470.23,
+                    230.98,
+                    30.04,
+                    12.0
+                  ],
+                  "IndexInText": 1164,
+                  "OcrConfidence": 1.0,
+                  "Text": "(listed"
+                },
+                {
+                  "Box": [
+                    470.23,
+                    263.71,
+                    33.51,
+                    12.0
+                  ],
+                  "IndexInText": 1172,
+                  "OcrConfidence": 1.0,
+                  "Text": "below)"
+                },
+                {
+                  "Box": [
+                    470.23,
+                    300.17,
+                    18.41,
+                    12.0
+                  ],
+                  "IndexInText": 1179,
+                  "OcrConfidence": 1.0,
+                  "Text": "and"
+                },
+                {
+                  "Box": [
+                    470.23,
+                    321.37,
+                    31.41,
+                    12.0
+                  ],
+                  "IndexInText": 1183,
+                  "OcrConfidence": 1.0,
+                  "Text": "please"
+                },
+                {
+                  "Box": [
+                    484.87,
+                    41.76,
+                    47.33,
+                    12.0
+                  ],
+                  "IndexInText": 1190,
+                  "OcrConfidence": 1.0,
+                  "Text": "reference"
+                },
+                {
+                  "Box": [
+                    484.87,
+                    91.86,
+                    34.55,
+                    12.0
+                  ],
+                  "IndexInText": 1200,
+                  "OcrConfidence": 1.0,
+                  "Text": "invoice"
+                },
+                {
+                  "Box": [
+                    484.87,
+                    129.05,
+                    50.52,
+                    12.0
+                  ],
+                  "IndexInText": 1208,
+                  "OcrConfidence": 1.0,
+                  "Text": "number(s)"
+                },
+                {
+                  "Box": [
+                    484.87,
+                    182.28,
+                    18.06,
+                    12.0
+                  ],
+                  "IndexInText": 1218,
+                  "OcrConfidence": 1.0,
+                  "Text": "you"
+                },
+                {
+                  "Box": [
+                    484.87,
+                    203.15,
+                    15.91,
+                    12.0
+                  ],
+                  "IndexInText": 1222,
+                  "OcrConfidence": 1.0,
+                  "Text": "are"
+                },
+                {
+                  "Box": [
+                    484.87,
+                    221.74,
+                    35.26,
+                    12.0
+                  ],
+                  "IndexInText": 1226,
+                  "OcrConfidence": 1.0,
+                  "Text": "paying."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IndexInText": 1235,
+          "Language": "eng",
+          "Length": 188,
+          "Rotation": "None",
+          "SkewAngle": 0.0,
+          "Type": "Paragraph",
+          "WordGroups": [
+            {
+              "IndexInText": 1235,
+              "Length": 188,
+              "Type": "Other",
+              "Words": [
+                {
+                  "Box": [
+                    522.67,
+                    41.76,
+                    54.47,
+                    12.0
+                  ],
+                  "IndexInText": 1235,
+                  "OcrConfidence": 1.0,
+                  "Text": "Beneficiary"
+                },
+                {
+                  "Box": [
+                    522.67,
+                    98.96,
+                    27.21,
+                    12.0
+                  ],
+                  "IndexInText": 1247,
+                  "OcrConfidence": 1.0,
+                  "Text": "Bank:"
+                },
+                {
+                  "Box": [
+                    522.67,
+                    128.9,
+                    26.28,
+                    12.0
+                  ],
+                  "IndexInText": 1253,
+                  "OcrConfidence": 1.0,
+                  "Text": "HSBC"
+                },
+                {
+                  "Box": [
+                    522.67,
+                    157.82,
+                    27.93,
+                    12.0
+                  ],
+                  "IndexInText": 1258,
+                  "OcrConfidence": 1.0,
+                  "Text": "Bank,"
+                },
+                {
+                  "Box": [
+                    522.67,
+                    188.52,
+                    15.17,
+                    12.0
+                  ],
+                  "IndexInText": 1264,
+                  "OcrConfidence": 1.0,
+                  "Text": "NA"
+                },
+                {
+                  "Box": [
+                    537.31,
+                    41.76,
+                    54.47,
+                    12.0
+                  ],
+                  "IndexInText": 1267,
+                  "OcrConfidence": 1.0,
+                  "Text": "Beneficiary"
+                },
+                {
+                  "Box": [
+                    537.31,
+                    98.96,
+                    24.05,
+                    12.0
+                  ],
+                  "IndexInText": 1279,
+                  "OcrConfidence": 1.0,
+                  "Text": "Bank"
+                },
+                {
+                  "Box": [
+                    537.31,
+                    125.7,
+                    27.69,
+                    12.0
+                  ],
+                  "IndexInText": 1284,
+                  "OcrConfidence": 1.0,
+                  "Text": "Swift:"
+                },
+                {
+                  "Box": [
+                    537.31,
+                    156.26,
+                    53.4,
+                    12.0
+                  ],
+                  "IndexInText": 1291,
+                  "OcrConfidence": 1.0,
+                  "Text": "HSBCUK4B"
+                },
+                {
+                  "Box": [
+                    551.95,
+                    41.76,
+                    20.08,
+                    12.0
+                  ],
+                  "IndexInText": 1300,
+                  "OcrConfidence": 1.0,
+                  "Text": "Sort"
+                },
+                {
+                  "Box": [
+                    551.95,
+                    64.64,
+                    28.15,
+                    12.0
+                  ],
+                  "IndexInText": 1305,
+                  "OcrConfidence": 1.0,
+                  "Text": "Code:"
+                },
+                {
+                  "Box": [
+                    551.95,
+                    95.54,
+                    43.88,
+                    12.0
+                  ],
+                  "IndexInText": 1311,
+                  "OcrConfidence": 1.0,
+                  "Text": "40-45-32"
+                },
+                {
+                  "Box": [
+                    566.71,
+                    41.76,
+                    27.45,
+                    12.0
+                  ],
+                  "IndexInText": 1320,
+                  "OcrConfidence": 1.0,
+                  "Text": "IBAN:"
+                },
+                {
+                  "Box": [
+                    566.71,
+                    72.02,
+                    138.11,
+                    12.0
+                  ],
+                  "IndexInText": 1326,
+                  "OcrConfidence": 1.0,
+                  "Text": "GB32HSBC40453251216228"
+                },
+                {
+                  "Box": [
+                    581.35,
+                    41.76,
+                    54.47,
+                    12.0
+                  ],
+                  "IndexInText": 1349,
+                  "OcrConfidence": 1.0,
+                  "Text": "Beneficiary"
+                },
+                {
+                  "Box": [
+                    581.35,
+                    98.96,
+                    39.99,
+                    12.0
+                  ],
+                  "IndexInText": 1361,
+                  "OcrConfidence": 1.0,
+                  "Text": "Account"
+                },
+                {
+                  "Box": [
+                    581.35,
+                    141.66,
+                    32.24,
+                    12.0
+                  ],
+                  "IndexInText": 1369,
+                  "OcrConfidence": 1.0,
+                  "Text": "Name:"
+                },
+                {
+                  "Box": [
+                    581.35,
+                    176.78,
+                    20.39,
+                    12.0
+                  ],
+                  "IndexInText": 1375,
+                  "OcrConfidence": 1.0,
+                  "Text": "ABC"
+                },
+                {
+                  "Box": [
+                    581.35,
+                    199.85,
+                    23.47,
+                    12.0
+                  ],
+                  "IndexInText": 1379,
+                  "OcrConfidence": 1.0,
+                  "Text": "Corp"
+                },
+                {
+                  "Box": [
+                    581.35,
+                    226.09,
+                    14.4,
+                    12.0
+                  ],
+                  "IndexInText": 1384,
+                  "OcrConfidence": 1.0,
+                  "Text": "UK"
+                },
+                {
+                  "Box": [
+                    596.02,
+                    41.76,
+                    54.47,
+                    12.0
+                  ],
+                  "IndexInText": 1387,
+                  "OcrConfidence": 1.0,
+                  "Text": "Beneficiary"
+                },
+                {
+                  "Box": [
+                    596.02,
+                    98.96,
+                    39.99,
+                    12.0
+                  ],
+                  "IndexInText": 1399,
+                  "OcrConfidence": 1.0,
+                  "Text": "Account"
+                },
+                {
+                  "Box": [
+                    596.02,
+                    141.66,
+                    43.3,
+                    12.0
+                  ],
+                  "IndexInText": 1407,
+                  "OcrConfidence": 1.0,
+                  "Text": "Number:"
+                },
+                {
+                  "Box": [
+                    596.02,
+                    187.7,
+                    48.71,
+                    12.0
+                  ],
+                  "IndexInText": 1415,
+                  "OcrConfidence": 1.0,
+                  "Text": "51216228"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IndexInText": 1425,
+          "Language": "eng",
+          "Length": 79,
+          "Rotation": "None",
+          "SkewAngle": 0.0,
+          "Type": "Paragraph",
+          "WordGroups": [
+            {
+              "IndexInText": 1425,
+              "Length": 54,
+              "Type": "Sentence",
+              "Words": [
+                {
+                  "Box": [
+                    625.3,
+                    41.76,
+                    12.47,
+                    12.0
+                  ],
+                  "IndexInText": 1425,
+                  "OcrConfidence": 1.0,
+                  "Text": "All"
+                },
+                {
+                  "Box": [
+                    625.3,
+                    56.99,
+                    21.45,
+                    12.0
+                  ],
+                  "IndexInText": 1429,
+                  "OcrConfidence": 1.0,
+                  "Text": "wire"
+                },
+                {
+                  "Box": [
+                    625.3,
+                    81.26,
+                    43.42,
+                    12.0
+                  ],
+                  "IndexInText": 1434,
+                  "OcrConfidence": 1.0,
+                  "Text": "transfers"
+                },
+                {
+                  "Box": [
+                    625.3,
+                    127.42,
+                    24.54,
+                    12.0
+                  ],
+                  "IndexInText": 1444,
+                  "OcrConfidence": 1.0,
+                  "Text": "must"
+                },
+                {
+                  "Box": [
+                    625.3,
+                    154.63,
+                    35.48,
+                    12.0
+                  ],
+                  "IndexInText": 1449,
+                  "OcrConfidence": 1.0,
+                  "Text": "include"
+                },
+                {
+                  "Box": [
+                    625.3,
+                    192.77,
+                    16.29,
+                    12.0
+                  ],
+                  "IndexInText": 1457,
+                  "OcrConfidence": 1.0,
+                  "Text": "the"
+                },
+                {
+                  "Box": [
+                    625.3,
+                    211.82,
+                    45.11,
+                    12.0
+                  ],
+                  "IndexInText": 1461,
+                  "OcrConfidence": 1.0,
+                  "Text": "following"
+                },
+                {
+                  "Box": [
+                    625.3,
+                    259.67,
+                    22.13,
+                    12.0
+                  ],
+                  "IndexInText": 1471,
+                  "OcrConfidence": 1.0,
+                  "Text": "info:"
+                },
+                {
+                  "Box": [
+                    639.94,
+                    41.76,
+                    9.1,
+                    12.0
+                  ],
+                  "IndexInText": 1477,
+                  "OcrConfidence": 1.0,
+                  "Text": "1."
+                }
+              ]
+            },
+            {
+              "IndexInText": 1480,
+              "Length": 15,
+              "Type": "Sentence",
+              "Words": [
+                {
+                  "Box": [
+                    639.94,
+                    53.63,
+                    46.08,
+                    12.0
+                  ],
+                  "IndexInText": 1480,
+                  "OcrConfidence": 1.0,
+                  "Text": "Company"
+                },
+                {
+                  "Box": [
+                    639.94,
+                    102.42,
+                    27.58,
+                    12.0
+                  ],
+                  "IndexInText": 1488,
+                  "OcrConfidence": 1.0,
+                  "Text": "name"
+                },
+                {
+                  "Box": [
+                    654.58,
+                    41.76,
+                    9.1,
+                    12.0
+                  ],
+                  "IndexInText": 1493,
+                  "OcrConfidence": 1.0,
+                  "Text": "2."
+                }
+              ]
+            },
+            {
+              "IndexInText": 1496,
+              "Length": 8,
+              "Type": "Other",
+              "Words": [
+                {
+                  "Box": [
+                    654.58,
+                    53.63,
+                    28.63,
+                    12.0
+                  ],
+                  "IndexInText": 1496,
+                  "OcrConfidence": 1.0,
+                  "Text": "Order"
+                },
+                {
+                  "Box": [
+                    654.58,
+                    84.92,
+                    10.41,
+                    12.0
+                  ],
+                  "IndexInText": 1502,
+                  "OcrConfidence": 1.0,
+                  "Text": "ID"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IndexInText": 1506,
+          "Language": "eng",
+          "Length": 84,
+          "Rotation": "None",
+          "SkewAngle": 0.0,
+          "Type": "Paragraph",
+          "WordGroups": [
+            {
+              "IndexInText": 1506,
+              "Length": 84,
+              "Type": "Other",
+              "Words": [
+                {
+                  "Box": [
+                    683.86,
+                    41.76,
+                    16.06,
+                    12.0
+                  ],
+                  "IndexInText": 1506,
+                  "OcrConfidence": 1.0,
+                  "Text": "For"
+                },
+                {
+                  "Box": [
+                    683.86,
+                    60.58,
+                    47.37,
+                    12.0
+                  ],
+                  "IndexInText": 1510,
+                  "OcrConfidence": 1.0,
+                  "Text": "questions"
+                },
+                {
+                  "Box": [
+                    683.86,
+                    110.58,
+                    31.53,
+                    12.0
+                  ],
+                  "IndexInText": 1520,
+                  "OcrConfidence": 1.0,
+                  "Text": "please"
+                },
+                {
+                  "Box": [
+                    683.86,
+                    144.74,
+                    36.53,
+                    12.0
+                  ],
+                  "IndexInText": 1527,
+                  "OcrConfidence": 1.0,
+                  "Text": "contact"
+                },
+                {
+                  "Box": [
+                    683.86,
+                    183.96,
+                    11.04,
+                    12.0
+                  ],
+                  "IndexInText": 1535,
+                  "OcrConfidence": 1.0,
+                  "Text": "us"
+                },
+                {
+                  "Box": [
+                    683.86,
+                    197.74,
+                    13.93,
+                    12.0
+                  ],
+                  "IndexInText": 1538,
+                  "OcrConfidence": 1.0,
+                  "Text": "via"
+                },
+                {
+                  "Box": [
+                    683.86,
+                    214.3,
+                    16.39,
+                    12.0
+                  ],
+                  "IndexInText": 1542,
+                  "OcrConfidence": 1.0,
+                  "Text": "the"
+                },
+                {
+                  "Box": [
+                    683.86,
+                    233.34,
+                    45.11,
+                    12.0
+                  ],
+                  "IndexInText": 1546,
+                  "OcrConfidence": 1.0,
+                  "Text": "following"
+                },
+                {
+                  "Box": [
+                    683.86,
+                    281.08,
+                    26.86,
+                    12.0
+                  ],
+                  "IndexInText": 1556,
+                  "OcrConfidence": 1.0,
+                  "Text": "email"
+                },
+                {
+                  "Box": [
+                    683.86,
+                    310.69,
+                    41.14,
+                    12.0
+                  ],
+                  "IndexInText": 1562,
+                  "OcrConfidence": 1.0,
+                  "Text": "address:"
+                },
+                {
+                  "Box": [
+                    683.86,
+                    354.46,
+                    114.88,
+                    12.0
+                  ],
+                  "IndexInText": 1571,
+                  "OcrConfidence": 1.0,
+                  "Text": "accounting@acme.com"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IndexInText": 1592,
+          "Language": "eng",
+          "Length": 28,
+          "Rotation": "None",
+          "SkewAngle": 0.0,
+          "Type": "Paragraph",
+          "WordGroups": [
+            {
+              "IndexInText": 1592,
+              "Length": 28,
+              "Type": "Sentence",
+              "Words": [
+                {
+                  "Box": [
+                    718.78,
+                    230.45,
+                    15.23,
+                    11.04
+                  ],
+                  "IndexInText": 1592,
+                  "OcrConfidence": 1.0,
+                  "Text": "WE"
+                },
+                {
+                  "Box": [
+                    718.78,
+                    248.3,
+                    54.91,
+                    11.04
+                  ],
+                  "IndexInText": 1595,
+                  "OcrConfidence": 1.0,
+                  "Text": "APPRECIATE"
+                },
+                {
+                  "Box": [
+                    718.78,
+                    305.83,
+                    25.51,
+                    11.04
+                  ],
+                  "IndexInText": 1606,
+                  "OcrConfidence": 1.0,
+                  "Text": "YOUR"
+                },
+                {
+                  "Box": [
+                    718.78,
+                    333.98,
+                    47.38,
+                    11.04
+                  ],
+                  "IndexInText": 1611,
+                  "OcrConfidence": 1.0,
+                  "Text": "BUSINESS!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ProcessingSource": "Pdf",
+      "IndexInText": 0,
+      "TextLength": 1620
+    }
+  ]
+}
