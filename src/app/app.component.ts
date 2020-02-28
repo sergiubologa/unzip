@@ -27,12 +27,12 @@ interface IResult {
 })
 export class AppComponent {
   public files: IFile[] = [
-    { fileName: '1p-DOM', content: null },
-    { fileName: '2p-DOM', content: null },
-    { fileName: '11p-DOM', content: null },
-    { fileName: '110p-DOM', content: null },
-    { fileName: '223p-DOM', content: null },
-    { fileName: '446p-DOM', content: null },
+    { fileName: '1 page', content: null },
+    { fileName: '2 pages', content: null },
+    { fileName: '11 pages', content: null },
+    { fileName: '110 pages', content: null },
+    { fileName: '223 pages', content: null },
+    { fileName: '446 pages', content: null },
   ];
   public results$ = new BehaviorSubject<IResult[]>([]);
 
@@ -50,7 +50,7 @@ export class AppComponent {
 
   public unzip(file: IFile) {
     // @ts-ignore
-    const startMemory = performance.memory.usedJSHeapSize;
+    const startMemory = performance.memoy ? performance.memory.usedJSHeapSize : NaN;
     const t0 = performance.now();
 
     zip.loadAsync(file.content)
@@ -58,14 +58,14 @@ export class AppComponent {
         const zipFile = res.file(Object.entries(res.files)[0][0]);
         zipFile.async('string').then(c => {
           // @ts-ignore
-          const currentMemory = performance.memory.usedJSHeapSize;
+          const currentMemory = performance.memory ? performance.memory.usedJSHeapSize : NaN;
           const t1 = performance.now();
 
           const result: IResult = {
             // @ts-ignore
-            compressedSize: this._formatBytes(file._data.compressedSize),
+            compressedSize: this._formatBytes(zipFile._data.compressedSize),
             // @ts-ignore
-            uncompressedSize: this._formatBytes(file._data.uncompressedSize),
+            uncompressedSize: this._formatBytes(zipFile._data.uncompressedSize),
             file,
             time: this._formatTime(t1 - t0),
             memory: this._formatBytes(currentMemory - startMemory),
@@ -86,7 +86,7 @@ export class AppComponent {
 
     const i = Math.floor(Math.log(bytes) / Math.log(k));
 
-    return parseFloat((bytes / Math.pow(k, i)).toFixed(dm)) + ' ' + sizes[i];
+    return parseFloat((bytes / Math.pow(k, i)).toFixed(dm)) + sizes[i];
   }
 
   private _formatTime(ms: number) {
