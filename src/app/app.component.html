@@ -1,5 +1,15 @@
-<button *ngFor="let file of files"
-        (click)="unzip(file)">Unzip {{file.fileName}}</button>
+<div class="toolbar">
+  <button *ngFor="let file of files"
+          (click)="unzip(file)">Unzip {{file.fileName}}</button>
+
+  <div *ngIf="loading"
+       class="wrap">
+    <div class="loading">
+      <div class="bounceball"></div>
+      <div class="text">NOW LOADING</div>
+    </div>
+  </div>
+</div>
 
 <table class="grid"
        cellpadding="0"

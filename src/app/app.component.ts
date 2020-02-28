@@ -35,6 +35,7 @@ export class AppComponent {
     { fileName: '446 pages', content: null },
   ];
   public results$ = new BehaviorSubject<IResult[]>([]);
+  public loading = false;
 
   constructor(
     private _http: HttpClient,
@@ -49,6 +50,7 @@ export class AppComponent {
   }
 
   public unzip(file: IFile) {
+    this.loading = true;
     // @ts-ignore
     const startMemory = performance.memoy ? performance.memory.usedJSHeapSize : NaN;
     const t0 = performance.now();
@@ -73,6 +75,7 @@ export class AppComponent {
           const newResults = this.results$.value;
           newResults.push(result);
           this.results$.next(newResults);
+          this.loading = false;
         });
       });
   }
