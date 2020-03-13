@@ -9,6 +9,7 @@ We are testing 6 different *.zip* files, more specifically the DOM json resulted
 
 # Results
 
+- the `zip` and `unzip` operations don't freeze the UI, even for big files (~100MB), because we are using the `async` version of each operation. [Here](https://stuk.github.io/jszip/documentation/limitations.html) is the documentation explaining some of these.
 - In modern browsers the lib works pretty well, with very decent memory consumption and pretty fast. Both metrics have a linear growth.
 - In modern browsers, **with CPU throttling**, the memory consumtion stays at the same level but the time grows pretty much for big documents (it took ~32sec to unzip the 446 pages file with 6x CPU throttling).
 - IE11 works very well for small documents and I think it's pretty decent for big documents: took ~14sec to unzip the 446 pages file. It's pretty much the equivalent of throttling Chrome with 2x.
